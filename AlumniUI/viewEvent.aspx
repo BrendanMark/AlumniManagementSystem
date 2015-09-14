@@ -47,7 +47,7 @@
         <%--Code for the panel containing search and gridview--%>
         <div class="container">           
             <div class="col-lg-12">
-                <h4 style="color: #a41e35"><b>Find and select events to export them to Excel Spreadsheet</b></h4>
+                <h4 style="color: #a41e35">Find and select events to export them to Excel Spreadsheet</h4>
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h3 class="panel-title" style="font-weight: bold">Look Up Events</h3>

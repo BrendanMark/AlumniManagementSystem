@@ -445,8 +445,8 @@
 
 
         <div class="container">
-            <h4 class="auto-style3">Information About Creating Event</h4>
-            <h4>This page is to Add a New Event. Please fill in these fields below to create a new new event. Then press the Next button to go to the Sub-Event page.</h4>
+            <h3 style="color: #a41e35"><b>Information About Managing Event</b></h3>
+            <h4 class="auto-style3">This page is to edit the current Event. Please fill in these fields below edit the event. Then press the Next button to go to the Sub-Event page.</h4>
 
             <div style="float:right">
             <asp:Button ID="btnEdit" runat="server" Text="Edit" CssClass="btn btn-default" OnClick="btnEdit_Click" />
